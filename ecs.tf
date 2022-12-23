@@ -244,3 +244,5 @@ resource "aws_ecs_cluster" "wordpress_cluster" {
     base              = "1"
   }
 }
+
+  #test
